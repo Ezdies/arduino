@@ -1,3 +1,5 @@
+// This program measures temperature and makes some LEDS light depending on the height of it
+
 
 const int redLed1 = 5;
 const int redLed2 = 4;
