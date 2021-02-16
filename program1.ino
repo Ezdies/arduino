@@ -1,4 +1,4 @@
-
+//This program makes 3 LEDs brink at the same time and when you press a button they blink one after another
 
 const int redLed1 = 5;
 const int redLed2 = 4;
